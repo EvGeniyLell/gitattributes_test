@@ -1,4 +1,4 @@
 
 *.gen.dart  linguist-generated=true
 *.freezed.dart  linguist-generated=true
-*_localization*.dart  linguist-generated=true
+
