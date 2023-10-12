@@ -1,0 +1,1 @@
+/// Test my_code.G.dart should be IN-visible

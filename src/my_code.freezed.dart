@@ -1,0 +1,1 @@
+/// Test my_code.FREEZED.dart should be IN-visible
